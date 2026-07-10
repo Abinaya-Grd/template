@@ -344,3 +344,26 @@ details[open] summary::after {
   letter-spacing: 5px;
 
 }
+.testimonial-card{
+    box-shadow: 10px 10px 0px 0px #5D122F;
+    background-color: #FFF4F8;
+    height: 260px;
+    border-radius: 30px;
+    border: 1px solid;
+    width: 700px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
